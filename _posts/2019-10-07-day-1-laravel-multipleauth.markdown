@@ -2,7 +2,7 @@
 layout: post
 title:  "Day #1 Laravel Multiple Auth!"
 date:   2019-10-07 06:14:43 +0700
-categories: jekyll update
+categories: Laravel Auth
 ---
 
 ## About Multiple Authentication

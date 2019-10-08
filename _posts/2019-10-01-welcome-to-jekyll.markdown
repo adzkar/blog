@@ -2,7 +2,7 @@
 layout: post
 title:  "Day #0 Hola!"
 date:   2019-10-02 06:14:43 +0700
-categories: jekyll update
+categories: Hola
 ---
 Hola, post pertama untuk menyapa
 
