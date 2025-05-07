@@ -1,2 +1,2 @@
 # blog
-Coretan dari seorang mahasiswa bajigur
+Coretan dari seorang mahasiswa bajingan
